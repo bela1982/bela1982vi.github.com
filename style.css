@@ -1,0 +1,134 @@
+@font-face {
+    font-family: FiragGo-Regular;
+    src: url(Fonts/FiraGO-Regular.otf);
+}
+
+body {
+    background:  #FDFDFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    }
+.card {
+height: 677px;
+width: 667px;
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+border-radius: 10px;
+
+padding-top: 40px;
+padding-left: 51px;
+padding-right: 51px;
+padding-bottom: 24px;
+} 
+h1 {
+    font-family: FiragGo-Regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #000000;
+
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.input_item label {
+ display: block;
+
+font-family: FiragGo-Regular;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+margin-bottom: 5px;
+}
+.input_item input {
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+
+width: calc(100% - 36px);
+height: 12px;
+
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+}
+ .input_1 {
+margin-bottom: 13px;
+}
+.input_item1 input {
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+
+width: calc(100% - 36px);
+height: 80px;
+font-family: FiragGo-Regula;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #E7E7E7;
+
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+
+}
+.input_item1 label {
+    display: block;
+
+    font-family: FiragGo-Regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    margin-bottom: 5px;
+}
+.card_footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+    
+}
+
+.btn {
+ background: #FFDD04;
+border-radius: 10px;
+border: 1px solid transparent;
+font-family: FiragGo-Regular;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+
+padding-top: 13px;
+padding-left: 51px;
+padding-right: 51px;
+padding-bottom: 13px;
+
+
+
+    
+
+}
+
+
+
+
+
+
